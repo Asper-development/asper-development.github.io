@@ -3,7 +3,7 @@ Welcome to the official asper development site. Asper is a open-source developme
 ### Team
   - Adcharity - [Repl.it](https://repl.it/@AdCharity)
   - Lethdev2019 - [Repl.it](https://repl.it/@Lethdev2019), [Github](https://github.com/Lethdev2019)
-  - Estringy - [Github](https://github.com/etstringy)
+  * Estringy - [Github](https://github.com/etstringy)
 ##recent projects
 ### AAntivirus
 AAntivirus is a windows executable which is made using python that is designed to scan your computer and all drives quickly and efficiently.
